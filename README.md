@@ -5,4 +5,5 @@ This repository contains the old computational homeworks of the course [ECE 4305
 Therefore, I decided to create this repository to make them avaible for me and anyone else who is interested in this content.
 
 > PS1: The Simulink files are in the old [`.mld` extension](https://fileinfo.com/extension/mdl), which was replaced by `.slx`.
-> PS2: Each computational homework refers to a given chapter. I am not sure which book it is, but it is probably the [Software Defined Radio using MATLAB & Simulink and the RTL-SDR](https://www.mathworks.com/campaigns/offers/download-rtl-sdr-ebook.html) or  [Software-Defined Radio for Engineers](https://www.mathworks.com/campaigns/offers/download-rtl-sdr-ebook.html).
+
+> PS2: Each computational homework refers to a given chapter. I am not sure which book it is, but it is probably [Software-Defined Radio for Engineers](https://www.mathworks.com/campaigns/offers/download-rtl-sdr-ebook.html) as ECE4305 is heavily based on it.
